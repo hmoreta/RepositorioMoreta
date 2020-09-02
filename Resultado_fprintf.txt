@@ -1,0 +1,3 @@
+Cantidad que paga el cliente 20.00
+Precio del producto 15.64
+El cambio a devolver es:4.36
